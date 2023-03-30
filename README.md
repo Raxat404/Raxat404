@@ -7,9 +7,9 @@
 
 - 📝 I regularly write articles on [https://abatniyazov.uz/blog.php](https://abatniyazov.uz/blog.php)
 
-<!-- ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> -->
+## Fancy seeing you here! <img src="https://github.com/Raxat404/Raxat404/blob/main/wave.gif" width="30">
 
-I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from [The University of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Abatniyazov Raxat,  I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative ideas. 
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/) -->
 [![Telegram Badge](https://img.shields.io/badge/Raxat404-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Raxat404)](https://t.me/Raxat404)
