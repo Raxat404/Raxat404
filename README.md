@@ -47,6 +47,7 @@ I am Abatniyazov Raxat,  I am a tech enthusiast & an open-source advocate. Alway
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raxat404&show_icons=true&theme=radical) <br>
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raxat404&theme=radical)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=raxat404&theme=radical)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raxat404&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="raxat404" /></a> </p>
