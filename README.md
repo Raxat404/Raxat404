@@ -51,9 +51,3 @@ I am Abatniyazov Raxat,  I am a tech enthusiast & an open-source advocate. Alway
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=raxat404&theme=radical)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raxat404&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="raxat404" /></a> </p>
-
-  
-  
-  
-![Visitor's Badge](https://visitor-badge.glitch.me/badge?page_id=raxat404.raxat404) 
-
