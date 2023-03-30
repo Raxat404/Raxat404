@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://abatniyazov.uz/blog.php](https://abatniyazov.uz/blog.php)
 
-## Fancy seeing you here! <img src="https://github.com/Raxat404/Raxat404/blob/main/wave.gif" width="30">
+## Fancy seeing you here! <img src="row.github.com/Raxat404/Raxat404/blob/main/wave.gif" width="30">
 
 I am Abatniyazov Raxat,  I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative ideas. 
 
