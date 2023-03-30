@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raxat</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=FRONT-END+DEVELOPER" alt="Typing SVG" /></a></h3>
 
+<p align="center">
 - 🌱 I’m currently learning **Javascript, php**
 
 - 👨‍💻 All of my projects are available at [abatniyazov.uz](abatniyazov.uz)
@@ -42,4 +43,4 @@ I am Abatniyazov Raxat,  I am a tech enthusiast & an open-source advocate. Alway
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raxat404&theme=radical)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=raxat404&theme=radical)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raxat404&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="raxat404" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raxat404&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="raxat404" /></a> </p> </p>
