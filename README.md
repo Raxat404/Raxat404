@@ -55,4 +55,5 @@ I am Abatniyazov Raxat,  I am a tech enthusiast & an open-source advocate. Alway
   
   
   
-![Visitor's Badge](https://visitor-badge.glitch.me/badge?page_id=raxat404.raxat404)
+![Visitor's Badge](https://visitor-badge.glitch.me/badge?page_id=raxat404.raxat404) 
+[![wakatime](https://wakatime.com/badge/user/8358ae46-6a27-49e2-bde5-5a4e3621d0d0.svg)](https://wakatime.com/@8358ae46-6a27-49e2-bde5-5a4e3621d0d0)
