@@ -7,7 +7,8 @@
 
 - 📝 I regularly write articles on [https://abatniyazov.uz/blog.php](https://abatniyazov.uz/blog.php)
 
-## Fancy seeing you here! ![wave](https://user-images.githubusercontent.com/106166557/228802683-267f3698-0c27-44d9-842e-e88cd2d9828a.gif)
+## Fancy seeing you here!     <img src="https://github.com/Raxat404/Raxat404/blob/main/wave.gif" height="30">
+
 
 
 
