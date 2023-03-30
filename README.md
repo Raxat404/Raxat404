@@ -40,7 +40,7 @@ I am Abatniyazov Raxat,  I am a tech enthusiast & an open-source advocate. Alway
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raxat404&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=raxat404&show_icons=true&theme=radical)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raxat404&show_icons=true&theme=radical) <br> -->
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raxat404&theme=radical)
