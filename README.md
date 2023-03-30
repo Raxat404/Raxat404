@@ -2,7 +2,8 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=FRONT-END+DEVELOPER" alt="Typing SVG" /></a></h3>
 
 
-- 🌱 I’m currently learning **Javascript, php**
+- 🌱 I’m currently learning **Javascript, php**![coder](https://user-images.githubusercontent.com/106166557/228831656-c35dfc31-f51d-4809-897c-368c0989f7e5.gif)
+
 
 - 👨‍💻 All of my projects are available at [abatniyazov.uz](abatniyazov.uz)
 
