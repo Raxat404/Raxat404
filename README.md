@@ -21,7 +21,7 @@ I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from
 🚀💻 Technologies & Tools
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-[![Windows](https://img.shields.io/badge/Windows-10-blue?style=flat&logo=windows&logoColor=white | width=100 height=60)]
+[![Windows](https://img.shields.io/badge/Windows-10-blue?style=flat&logo=windows&logoColor=white)
 ![Image](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
