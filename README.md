@@ -47,8 +47,8 @@ I am Abatniyazov Raxat,  I am a tech enthusiast & an open-source advocate. Alway
 
 
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=raxat404&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raxat404&hide=TeX&layout=compact) -->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=raxat404&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raxat404&hide=TeX&layout=compact)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=raxat404&show_icons=true&theme=gotham" alt="raxat404" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raxat404&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="raxat404" /></a> </p>
