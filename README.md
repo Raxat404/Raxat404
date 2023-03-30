@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raxat</h1>
-<h3 align="center">I am a front-end developer</h3>
+<h3 align="center">FRONT-END DEVELOPER</h3>
 
 - 🌱 I’m currently learning **Javascript, php**
 
@@ -12,7 +12,7 @@
 I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from [The University of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/) -->
-[![Telegram Badge](https://img.shields.io/badge/@Raxat404-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Raxat404)](https://t.me/Raxat404)
+[![Telegram Badge](https://img.shields.io/badge/Raxat404-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Raxat404)](https://t.me/Raxat404)
 [![Instagram Badge](https://img.shields.io/badge/-17.Raxat-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/17.raxat/)](https://instagram.com/kanna6501)
 <!-- [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna) -->
 <!-- [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi) -->
@@ -56,7 +56,10 @@ I am Anirudh Emmadi, people call me Ani, a recent computer science graduate from
 <!-- ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket) -->
 <!-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=raxat404&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raxat404&hide=TeX&layout=compact)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=raxat404&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raxat404&hide=TeX&layout=compact) -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=raxat404&show_icons=true&theme=gotham" alt="raxat404" />
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raxat404&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="raxat404" /></a> </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=raxat404.raxat404)
