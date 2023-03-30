@@ -26,8 +26,7 @@ I am Abatniyazov Raxat,  I am a tech enthusiast & an open-source advocate. Alway
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Windows](https://img.shields.io/badge/Windows-10-blue?style=flat&logo=windows&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/)
-
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/) -->
 
 <br>
 ![Image](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
