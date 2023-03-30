@@ -55,4 +55,4 @@ I am Abatniyazov Raxat,  I am a tech enthusiast & an open-source advocate. Alway
   
   
   
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=raxat404.raxat404)
+![Visitor's Badge](https://visitor-badge.glitch.me/badge?page_id=raxat404.raxat404)
