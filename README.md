@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [abatniyazov.uz](abatniyazov.uz)
 
-- 📝 I regularly write articles on [https://abatniyazov.uz/blog.php](https://abatniyazov.uz/blog.php)
+<!-- - 📝 I regularly write articles on [https://abatniyazov.uz/blog.php](https://abatniyazov.uz/blog.php) -->
 
 ## Fancy seeing you here!   <img src="https://github.com/Raxat404/Raxat404/blob/main/wave.gif" height="30">
 
